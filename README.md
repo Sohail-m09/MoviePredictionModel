@@ -1,4 +1,4 @@
-# MoviePredictionModel
+# Netflix Movies Analysis
 ---
 # Project Overview:- 
 ### This project performs end-to-end EDA on a Movies Dataset containing titles, release dates, budgets, revenues, popularity, vote counts, and ratings. The goal is to clean the data, explore patterns, categorize movies, and extract insights on what drives movie success.
